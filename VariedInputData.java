@@ -17,6 +17,13 @@ public class VariedInputData {
             System.out.println("Int Scanned: " + scannedInt);
             System.out.println("New Max Found: " + maxInt);
          }
+         count++;
+         sum += scannedInt;
+         scannedInt = scnr.nextInt();
+         System.out.println("Max: " + maxInt);
+         System.out.println("Count: " + count);
+         System.out.println("Sum: " + sum);
+         System.out.println("Next Int: " + scannedInt);
       }
 
    }
