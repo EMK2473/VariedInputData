@@ -5,6 +5,7 @@
 
 ## Table of Contents
 - [Description](#description)
+- [Installation Requirements](#installation-requirements)
 - [Application Usage](#application-usage)
 - [License](#licensing-information)
 - [Contributions](#contributions)
