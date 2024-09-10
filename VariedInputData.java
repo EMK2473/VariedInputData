@@ -25,6 +25,7 @@ public class VariedInputData {
          System.out.println("Sum: " + sum);
          System.out.println("Next Int: " + scannedInt);
       }
-
+      double average = (double) sum / count;
+      System.out.println(maxInt + " " + String.format("%.2f", average));
    }
 }
